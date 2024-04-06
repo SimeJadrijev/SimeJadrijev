@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Šime
+---
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeJadrijev&layout=compact&theme=radical" align="center" width="45%"/>
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api?username=SimeJadrijev&theme=radical&hide=stars,issues,contribs&show_icons=true&rank_icon=github" align="center" width="45%"/>
+
 
 <!--
 **SimeJadrijev/SimeJadrijev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
