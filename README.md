@@ -3,7 +3,11 @@
 </div>
 
 ---
+### 📧 Contact Me
 
+You can reach me at sime.jadrijev@gmail.com.
+
+---
 ### 📚 Languages and tools
 
 <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/> &nbsp;
@@ -18,13 +22,13 @@
 <img alt="prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" width="55" height="55"/> &nbsp;
 <img alt="prisma" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/> &nbsp;
 
-
-
 ---
 
 <div align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeJadrijev&layout=compact&theme=radical" width="45%"/> <img alt="top languages" src="https://github-readme-stats.vercel.app/api?username=SimeJadrijev&theme=radical&hide=stars,issues,contribs&show_icons=true&rank_icon=github" width="45%"/>
 </div>
+
+---
 
 
 
