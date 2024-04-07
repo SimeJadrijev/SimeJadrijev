@@ -14,6 +14,7 @@ You can reach me at sime.jadrijev@gmail.com.
 <img alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;
 <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/> &nbsp;
 <img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/> &nbsp;
+<img alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50" height="50"/> &nbsp;
 
 ### 🛠️ Frameworks
 
@@ -24,11 +25,13 @@ You can reach me at sime.jadrijev@gmail.com.
 ### 💼 Other Tools
 
 <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/> &nbsp;
+<img alt="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/> &nbsp;
 <img alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/> &nbsp;
 <img alt="sql server" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" width="55" height="55"/> &nbsp;
 <img alt="oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="55" height="55"/> &nbsp;
 <img alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/> &nbsp;
 <img alt="prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" width="55" height="55"/> &nbsp;
+
 
 ---
 
